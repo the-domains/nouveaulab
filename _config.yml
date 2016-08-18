@@ -1,4 +1,3 @@
-layout_spectrum: 0.11357022193260491
 typography_spectrum: 0.4895293884910643
 color:
   brandStrength: 0.026579965138807893
@@ -11,4 +10,6 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+layout_spectrum: 0.11357022193260491
 name: NouveauLab
+title: MoniRest
