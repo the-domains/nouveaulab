@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MoniRest]]></title>
+        <description><![CDATA[MoniRest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 08:11:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nouveau]]></title>
+            <description><![CDATA[<article><h1>Nouveau</h1><p>Trying to make a difference with human-computer interaction and industrial design in health and culture.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8be27eb418b40474d91b490c9883e339/noop.jpeg?input=http%3A%2F%2Fnouveau.no%2Fwp-content%2Fthemes%2Fnouveau%2Fassets%2Fimg%2Ffacebook1.jpeg"></article>]]></description>
+            <link>http://nouveau.no</link>
+            <guid isPermaLink="false">a361ff84-312b-4918-a279-ca8f81a2825d</guid>
+            <pubDate>Thu, 18 Aug 2016 08:11:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
